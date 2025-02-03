@@ -8,9 +8,7 @@
 
 
 
----
 
-Let me know if you want to tweak anything! 😊
 <!--
 **ss1234ss1/ss1234ss1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
